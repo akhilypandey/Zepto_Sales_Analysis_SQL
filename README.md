@@ -108,10 +108,6 @@ Each SQL query is documented with **clear business explanations** directly in th
 
 ## 👤 Author
 **Akhil Pandey**  
-Aspiring Data Analyst / Junior Data Scientist  
-
-📎 LinkedIn: https://www.linkedin.com/in/akhil-pandey-a6883b240
-
 ---
 
 ⭐ If you find this project useful, feel free to star the repository!
